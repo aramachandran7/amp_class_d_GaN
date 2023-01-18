@@ -1,2 +1,2 @@
-# amp_class_d_GaN
-yay GaN audio
+# SEE `/master` BRANCH
+yay GaN audio 
